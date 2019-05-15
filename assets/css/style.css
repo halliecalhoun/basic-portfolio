@@ -111,3 +111,8 @@ footer {
     border-width: 7px 0px 0px 0px;
     border-color: #4aaaa5;
 }
+
+form {
+    width: 60%;
+    
+}
