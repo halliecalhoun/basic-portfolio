@@ -13,6 +13,8 @@ body {
     text-align: center;
 }
 
+
+
 nav {
     float: right;
     color: #777777;
@@ -52,15 +54,14 @@ body {
 
 .about {
     background-color: white;
-    width: 960px;
+    width: 60%;
     border-style: solid;
     border-width: 0.15px;
     border-color: #cccccc;
-    padding: 20px;
+    padding: 40px 80px 40px 80px;
     color: #777777;
     margin: 0 auto;
     margin-top: 50px;
-    height: 440px;
     margin-bottom: 60px;
 }
 
@@ -115,18 +116,18 @@ footer {
     border-style: solid;
     border-width: 0.15px;
     border-color: #cccccc;
-    padding: 80px;
+    padding: 40px 80px 40px 80px;
     color: #777777;
     margin: 0 auto;
     margin-top: 50px;
     margin-bottom: 60px;
-    width: 50%;
+    width: 60%;
 }
 
 #contact-text {
     color: #4aaaa5;
-    font-size: 22px;
     font-weight: 500;
+    top: 15px;
 }
 
 input[type=text], select, textarea {
@@ -140,7 +141,7 @@ input[type=text], select, textarea {
     resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
   }
 
-  input[type=submit] {
+input[type=submit] {
     background-color: #4CAF50;
     color: white;
     padding: 12px 20px;
@@ -149,7 +150,17 @@ input[type=text], select, textarea {
     cursor: pointer;
   }
 
-  .container {
+.container {
     border-radius: 5px;
     background-color: #f2f2f2;
   }
+
+#portfolio-text {
+    color: #4aaaa5;
+    font-weight: 500;
+    top: 15px;
+}
+
+
+
+  
