@@ -183,6 +183,7 @@ input[type=submit] {
     height: 150px;
     padding: 10px;
     margin: 15px 10px 15px 0px;
+    position: relative;
 }
 
 #box-2 {
@@ -192,6 +193,7 @@ input[type=submit] {
     height: 150px;
     padding: 10px;
     margin: 15px 10px 15px 10px;
+    position: relative;
 }
 
 .clearfix::after {
@@ -207,6 +209,7 @@ input[type=submit] {
     height: 150px;
     padding: 10px;
     margin: 15px 10px 15px 0px;
+    position: relative;
 }
 
 #box-4 {
@@ -216,6 +219,7 @@ input[type=submit] {
     height: 150px;
     padding: 10px;
     margin: 15px 10px 15px 10px;
+    position: relative;
 }
 
 .row:after {
@@ -233,4 +237,60 @@ input[type=submit] {
     height: 150px;
     padding: 10px;
     margin: 15px 10px 15px 0px;
+    position: relative;
+}
+
+#label1 {
+    bottom: 10px;
+    background-color: #4aaaa5;
+    padding: 15px;
+    text-align: center;
+    color: white; 
+    position: absolute;
+    width: 190px;
+    left: 0;
+}
+
+#label2 {
+    bottom: 10px;
+    background-color: #4aaaa5;
+    padding: 15px;
+    text-align: center;
+    color: white; 
+    position: absolute;
+    width: 190px;
+    left: 0;
+}
+
+#label3 {
+    bottom: 10px;
+    background-color: #4aaaa5;
+    padding: 15px;
+    text-align: center;
+    color: white; 
+    position: absolute;
+    width: 190px;
+    left: 0;
+}
+
+#label4 {
+    bottom: 10px;
+    background-color: #4aaaa5;
+    padding: 15px;
+    text-align: center;
+    color: white; 
+    position: absolute;
+    width: 190px;
+    left: 0;
+}
+
+#label5 {
+    bottom: 10px;
+    background-color: #4aaaa5;
+    padding: 15px;
+    text-align: center;
+    color: white; 
+    position: absolute;
+    width: 190px;
+    left: 0;
 }
