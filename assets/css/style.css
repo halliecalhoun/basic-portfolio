@@ -58,7 +58,7 @@ body {
     border-style: solid;
     border-width: 0.15px;
     border-color: #cccccc;
-    padding: 40px 80px 40px 80px;
+    padding: 40px 50px 40px 50px;
     color: #777777;
     margin: 0 auto;
     margin-top: 50px;
@@ -67,10 +67,8 @@ body {
 
 #about-text {
     color: #4aaaa5;
-    font-size: 22px;
     font-weight: 500;
-    padding-left: 30px;
-    padding-right: 30px;
+    top: 15px;
 }
 hr {
     margin-top: 10px;
@@ -86,11 +84,10 @@ hr {
 
 img {
     float: left;
-    margin-right: 15px;
+    margin-right: 35px;
     margin-top: 5px;
-    height: 265px;
-    padding-left: 30px;
-    padding-right: 30px;
+    height: 220px;
+
 }
 
 #text {
@@ -98,9 +95,7 @@ img {
     line-height: 40px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14pt;
-    color: #777777; 
-    padding-left: 30px;
-    padding-right: 30px;   
+    color: #777777;  
 }
 
 footer {
